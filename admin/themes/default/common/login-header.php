@@ -10,8 +10,7 @@
     <?php queue_css_file('layout'); ?>
     <?php queue_css_file('skeleton'); ?>
     <?php echo head_css(); ?>
-    <link href='//fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-
+    
     <!-- JavaScripts -->
     <?php
     queue_js_file('vendor/modernizr');
